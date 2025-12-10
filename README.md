@@ -16,26 +16,20 @@ Extract	Python, Pandas	Read CSV → DataFrame
 Transform	Pandas	Cleaning, Null handling, Rich formatting, Type conversion
 Load	MS SQL Server	Table creation, Indexing & Batch insert
 Analyze	SQL Queries	BI insights & KPI reporting
+
 🎯 Business Questions Solved
 
-Top revenue-driving products
-
-Region-wise highest-selling products
-
-Month-over-month growth trends for 2022–2023
-
-Highest sales month for each product category
-
-Techniques: CTEs, Window Functions, Aggregations, Joins, Date Functions
+1. Top revenue-driving products
+2. Region-wise highest-selling products
+3. Month-over-month growth trends for 2022–2023
+4. Highest sales month for each product category
+5. Techniques: CTEs, Window Functions, Aggregations, Joins, Date Functions
 
 🛠️ Skills & Tech Stack
 
 Python, Jupyter Notebook
-
 Pandas, NumPy
-
 MS SQL Server
-
 ETL Pipeline Development
 
 Database Schema Design
